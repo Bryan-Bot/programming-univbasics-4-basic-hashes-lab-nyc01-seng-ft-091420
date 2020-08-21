@@ -13,8 +13,7 @@ def pioneer
   hash = {name: 'Grace Hopper'}
 end
 
-
 def id_hash_generator(number)
   # return a hash with a key :id assigned to the provided number
-  id = {id: 26}
+  id = {id: 5}
 end
