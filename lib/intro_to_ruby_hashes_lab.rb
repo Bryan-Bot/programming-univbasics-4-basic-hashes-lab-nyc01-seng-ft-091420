@@ -1,12 +1,11 @@
 def new_hash
   # return an empty hash
-  empty = {
-    
-  }
+  empty = {}
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  some = {name: 'Bruno', age: '23', car: 'Honda'}
 end
 
 def pioneer
